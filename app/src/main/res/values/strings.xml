@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bay Area Zoo</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_animal_details">Bay Area Zoo</string>
+    <string name="title_activity_zoo_details">Bay Area Zoo</string>
+    <string name="title_activity_second">Bay Area Zoo</string>
+    <string name="Bay_Area_Zoo">Bay Area Zoo</string>
+    <string name="Zoo_desc">Small zoo with an array of animals and rides, plus an education zoo, petting zoo nd puppet theatre</string>
+    <string name="zoo_addr">Address: 1330 Senter Road, San Jose,CA 95112</string>
+    <string name="time">Timings : Mon- Sat: 10AM to 5PM  closed on Sunday </string>
+    <string name="call">Call:(888)888-8888</string>
+</resources>

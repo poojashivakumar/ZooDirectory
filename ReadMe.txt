@@ -1,0 +1,1 @@
+The Application is tested in Nexus 4 emulator
